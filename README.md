@@ -50,7 +50,8 @@ Refresh the page. Click on the tan / beige rectangle:
 
 Set an [import map override](https://github.com/joeldenning/import-map-overrides/) to `9001`.
 
-![image](https://user-images.githubusercontent.com/5524384/75211553-7e333f80-5741-11ea-97d6-d3d86ffd1826.png)
+![image](https://user-images.githubusercontent.com/10109603/182165931-51e55e94-72a1-46c4-a229-acba2bde9075.png)
+
 
 Refresh the page. Your local code for this module will now be running on https://react.microfrontends.app. You may make changes locally and refresh the page to see them.
 
